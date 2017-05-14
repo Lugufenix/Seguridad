@@ -1,2 +1,3 @@
 # Seguridad
-Seguridad conforma uno de los módulos del curso WEB, aquí el conjunto de proyectos que lo conforman.
+1. En la carpeta Prácticas, se encuentran las practicas correspondientes a las clases.
+2. En la carpeta Proyecto, se encuentra el proyecto final asi como sus partes conformantes.
